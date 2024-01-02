@@ -1,0 +1,19 @@
+body{
+    /* background-color: aqua; */
+    background-image: url("https://webneel.com/daily/sites/default/files/images/daily/08-2018/1-nature-photography-spring-season-mumtazshamsee.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+table{
+    margin-left:36rem;
+    margin-top:12rem;
+    width:15rem;
+    height:7rem;
+    background-color: rgba(122, 73, 170, 0.603);
+    border:5px solid black;
+
+}
+input[type="text"],[type="email"],[type="password"]{
+    width:12rem;
+    height:3rem;
+}

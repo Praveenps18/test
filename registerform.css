@@ -1,0 +1,22 @@
+th{
+    color:black;
+}
+body{
+    /* background-color: aquamarine; */
+    background-image:url("https://images.unsplash.com/reserve/bOvf94dPRxWu0u3QsPjF_tree.jpg?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bmF0dXJhbHxlbnwwfHwwfHx8MA%3D%3D&w=1000&q=80");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+table{
+    padding-left: 3rem;
+    margin-left:36rem;
+    margin-top:8rem;
+    width:15rem;
+    height:7rem;
+    background-color: rgba(122, 73, 170, 0.603);
+    border:5px solid black;;
+}
+input[type="text"],[type="email"],[type="password"],[type="DISTRICT"]{
+    width:12rem;
+    height:2rem;
+}

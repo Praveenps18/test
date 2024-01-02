@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        let num=463
+        num1=num
+        let rev=0
+        while(num!=0){
+            digit=parseInt(num%10)
+            rev=rev+digit*digit*digit
+            num=parseInt(num/10)
+        }
+        if(num1==rev){
+            console.log("amstrong")
+        }
+        else{
+            console.log("not amstrong")
+        }
+    </script>
+</body>
+</html>

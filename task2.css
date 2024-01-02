@@ -1,0 +1,22 @@
+body{
+    background-image: url("https://img.freepik.com/free-vector/hand-painted-watercolor-pastel-sky-background_23-2148902771.jpg?w=2000");
+}
+.container{
+    border: 2px solid black;
+        width:18rem;
+        height:18rem;   
+     background-color: rgba(8, 29, 29, 0.623);
+        margin-left: 35rem;
+        margin-top: 7rem;
+        padding-left:2rem;
+        padding-top: 1rem;
+}
+input[type="email"],[type="password"]{
+    background-color: rgba(0, 0, 0, 0.295);
+    width:15rem;
+    height: 4rem;
+}
+#butt1{
+    width:10rem;
+    height:2rem;
+}

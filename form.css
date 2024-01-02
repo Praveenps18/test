@@ -1,0 +1,18 @@
+body{
+    /* background-color:blue; */
+background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz7njseNGSG-38u0j6qEjjSqW6Wjj0f4FtxWdMYXpu&s");
+background-repeat: no-repeat;
+background-size: cover;
+}
+form{
+    /* border: width 10rem;
+    border-style: solid;
+    border-color: aqua; */
+    width:15rem;
+    height:20rem;
+    background-color: rgba(122, 73, 170, 0.603);
+    border:1px solid black;
+}
+h1{
+    color:blue;
+}

@@ -1,0 +1,12 @@
+body{
+    background-color: burlywood;
+}
+header{
+    background-color: brown;
+}
+a{
+    display: block;
+}
+footer{
+    background-color: blue;
+}
